@@ -58,7 +58,7 @@ This Python program simulates a basic login system using:
 ### ▶️ How to Run
 
 ```bash
-python login.py
+python log_in.py
 ```
 
 When prompted:
@@ -88,7 +88,7 @@ Displays a unique message advising the user to recheck both fields.
 project/
 │
 ├── turtle_art.py
-├── login.py
+├── log_in.py
 └── README.md
 ```
 
