@@ -4,8 +4,5 @@ text = input("Enter text: ")
 
 count = 0
 
-for char in text:
-    if char in string.digits:
-        count += 1
-
+count = sum(char.isdigit() for char in text)
 print("Number of digits:", count)
